@@ -134,8 +134,8 @@ driver = webdriver.Chrome(options=options)
 # Naver login url / your id / your passward
 url='https://nid.naver.com/nidlogin.login'
 
-id_ = 'doanvo01'  #'insert ID'
-pw = 'Td201096@@'  # 'insert Password'
+id_ = ''  #'insert ID'
+pw = ''  # 'insert Password'
     
 driver.get(url)
 driver.implicitly_wait(1)
