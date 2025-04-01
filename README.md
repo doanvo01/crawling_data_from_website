@@ -43,9 +43,5 @@ The objective of this project is to create a chatbot capable of answering questi
       + Apply the trained model to new datasets for predicting customer answers.
 
 ## 4. Repository:
-This project includes:
-
       + Crawling scripts
-      + Preprocessing tools
-      + Training and evaluation scripts
-      + Deployment-ready chatbot implementations
+
